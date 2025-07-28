@@ -52,7 +52,7 @@
 </ul>
 
 <div align="center" style="margin-bottom: 25px;">
-<img src="./assets/snake.svg" alt="Snake animation" />
+<img src="./assets/blue_snake.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
