@@ -1,10 +1,10 @@
 <div align="center">
   <img height="300"  src="./assets/header_wav.svg"  />
 </div>
-<h2> Обо мне:</h2>
+<h2> Обо мне</h2>
 <p align="left">Я хочу помогать выпускать более удобное и качественное ПО, которое будет улучшать жизнь людей. Здесь я делюсь работами из портфолио по веб- и мобильному тестированию, разработанными на курсах и в рамках личных проектов. Приглашаю вас ознакомиться с моим <a href='https://cloud.mail.ru/public/AvXt/pGmJvYSyM' target='_blank'>резюме</a>.</p>
 <div align="center" style='display:flex; justify-content:space-evenly'>
-  <a href="www.linkedin.com/in/vadim-skoblikov" target="_blank">
+  <a href="https://www.linkedin.com/in/vadim-skoblikov" target="_blank">
    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt='linkedin' style="margin-bottom: 5px;" />
   </a>
   <a href="https://dev.to/solar5503" target="_blank">
@@ -18,7 +18,7 @@
   </a>
 </div>
 
-<h2>Инструменты и технологии, которые я использую:</h2>
+<h2>Инструменты и технологии, которые я использую</h2>
 <div align="center" style='display:flex; justify-content:space-evenly; flex-wrap:wrap; gap:20px'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>
   <img src="https://code-partners.com/wp-content/uploads/2021/05/TestRail-Company-Logo-150x150.png" title="TestRail" alt="TestRail" width="40" height="40"/>
